@@ -1,7 +1,7 @@
 # Stay in touch
 > A social media app where you can have friends, make posts, comment and drop likes.
 
-![screenshot](docs/screenshot.png)
+![screenshot](https://cdn.mathpix.com/snip/images/7UMQy7qTRGpNaexVN5fkiuhpr3JKMgzl3TgfX1HZi8o.original.fullsize.png)
 
 <br>The main point on this project is to practice industry standards to implement new features on existing applications.<br>
 
